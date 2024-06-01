@@ -108,6 +108,10 @@ p {
   display: block;
 }
 
+.message--bot {
+    font-family: Oblique, sans-serif;
+}
+
 @-webkit-keyframes fadeIn {
   from {
     opacity: 0;
